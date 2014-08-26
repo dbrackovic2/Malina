@@ -1,0 +1,9 @@
+2014-08-27 01:02:49,249 - [INFO] - from play in pool-7-thread-2 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-08-27 01:03:03,625 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost:3306/hello-play-java
+
+2014-08-27 01:03:05,583 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
