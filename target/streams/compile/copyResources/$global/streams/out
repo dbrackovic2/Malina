@@ -1,3 +1,6 @@
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
 [0m[[0mdebug[0m] [0m	(C:\play\activator-1.2.3\Malina\conf\application.conf,C:\play\activator-1.2.3\Malina\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\play\activator-1.2.3\Malina\conf\evolutions,C:\play\activator-1.2.3\Malina\target\scala-2.10\classes\evolutions)[0m
 [0m[[0mdebug[0m] [0m	(C:\play\activator-1.2.3\Malina\conf\routes,C:\play\activator-1.2.3\Malina\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\play\activator-1.2.3\Malina\conf\evolutions\default,C:\play\activator-1.2.3\Malina\target\scala-2.10\classes\evolutions\default)[0m
+[0m[[0mdebug[0m] [0m	(C:\play\activator-1.2.3\Malina\conf\evolutions\default\1.sql,C:\play\activator-1.2.3\Malina\target\scala-2.10\classes\evolutions\default\1.sql)[0m

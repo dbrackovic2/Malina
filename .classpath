@@ -106,7 +106,7 @@
 	<classpathentry kind="lib" path="C:/Users/Dajan/.ivy2/cache/org.easytesting/fest-assert/jars/fest-assert-1.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Dajan/.ivy2/cache/org.easytesting/fest-util/jars/fest-util-1.1.6.jar"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
 	<classpathentry kind="lib" path="C:/Users/Dajan/.sbt/boot/scala-2.10.3/lib/scala-library.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

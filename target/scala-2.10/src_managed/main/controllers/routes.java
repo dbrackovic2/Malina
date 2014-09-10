@@ -1,6 +1,6 @@
 // @SOURCE:C:/play/activator-1.2.3/Malina/conf/routes
-// @HASH:8890d2609555b9c31b6c11cc3e3b1c61b5c41315
-// @DATE:Tue Aug 26 23:44:50 CEST 2014
+// @HASH:3f89b85a6c1883b625767267e48fc8faa2f7ac8b
+// @DATE:Wed Sep 03 18:01:57 CEST 2014
 
 package controllers;
 

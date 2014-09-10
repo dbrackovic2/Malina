@@ -1,9 +1,39 @@
-2014-08-27 01:02:49,249 - [INFO] - from play in pool-7-thread-2 
+2014-09-09 14:22:44,326 - [INFO] - from play in pool-4-thread-3 
 Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 
-2014-08-27 01:03:03,625 - [INFO] - from play in play-internal-execution-context-1 
-database [default] connected at jdbc:mysql://localhost:3306/hello-play-java
+2014-09-09 14:23:13,149 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost:3306/malina
 
-2014-08-27 01:03:05,583 - [INFO] - from play in play-internal-execution-context-1 
+2014-09-09 14:23:16,438 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-09-09 14:24:08,846 - [INFO] - from play in play-internal-execution-context-2 
+database [default] connected at jdbc:mysql://localhost:3306/malina
+
+2014-09-09 14:24:09,105 - [INFO] - from play in play-internal-execution-context-2 
+Application started (Dev)
+
+2014-09-09 14:26:37,117 - [INFO] - from play in play-internal-execution-context-2 
+database [default] connected at jdbc:mysql://localhost:3306/malina
+
+2014-09-09 14:26:37,370 - [INFO] - from play in play-internal-execution-context-2 
+Application started (Dev)
+
+2014-09-09 14:27:42,324 - [INFO] - from play in play-internal-execution-context-3 
+database [default] connected at jdbc:mysql://localhost:3306/malina
+
+2014-09-09 14:27:42,581 - [INFO] - from play in play-internal-execution-context-3 
+Application started (Dev)
+
+2014-09-09 14:48:06,108 - [INFO] - from play in play-internal-execution-context-3 
+database [default] connected at jdbc:mysql://localhost:3306/malina
+
+2014-09-09 14:48:07,468 - [INFO] - from play in play-internal-execution-context-3 
+Application started (Dev)
+
+2014-09-09 15:17:27,952 - [INFO] - from play in play-internal-execution-context-3 
+database [default] connected at jdbc:mysql://localhost:3306/malina
+
+2014-09-09 15:17:29,091 - [INFO] - from play in play-internal-execution-context-3 
 Application started (Dev)
 

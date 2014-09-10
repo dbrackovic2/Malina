@@ -36,9 +36,9 @@ Seq[Any](format.raw/*1.32*/("""
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>"""),_display_(Seq[Any](/*9.13*/title)),format.raw/*9.18*/("""</title>
 
-    <!-- Bootstrap -->
-	<link href="/assets/stylesheets/bootstrap.min.css" rel="stylesheet">
-	<link href="/assets/stylesheets/style.css" rel="stylesheet">
+    <!-- Bootstrap -->	
+	<link href=""""),_display_(Seq[Any](/*12.15*/routes/*12.21*/.Assets.at("stylesheets/bootstrap.min.css"))),format.raw/*12.64*/("""" rel="stylesheet">
+	<link href=""""),_display_(Seq[Any](/*13.15*/routes/*13.21*/.Assets.at("stylesheets/style.css"))),format.raw/*13.56*/("""" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -57,27 +57,26 @@ Seq[Any](format.raw/*1.32*/("""
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="/" title="Home" class="navbar-brand logo">
+				<a href=""""),_display_(Seq[Any](/*32.15*/routes/*32.21*/.Application.index())),format.raw/*32.41*/("""" title="Home" class="navbar-brand logo">
 					Home
 				</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li class="active"><a href="/">Home</a></li>
-					<li><a href="/login">Sign in</a></li>
-					<li><a href="#">Sign up</a></li>
+					<li class="active"><a href=""""),_display_(Seq[Any](/*38.35*/routes/*38.41*/.Application.index())),format.raw/*38.61*/("""">Home</a></li>
+					<li><a href=""""),_display_(Seq[Any](/*39.20*/routes/*39.26*/.Application.login())),format.raw/*39.46*/("""">Sign in</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 							Options<b class="caret"></b>
 						</a>
 							<ul class="dropdown-menu">
-								<li><a href="#">About me</a></li>
+								<li><a href="#">About Malina</a></li>
 								<li><a href="#">Help</a></li>
 								<li class="divider"></li>
 								<li><a href="#">Settings</a></li>
-								<li><a href="#">Muzika</a></li>
+								<li><a href="#">Music</a></li>
 								<li class="divider"></li>
-								<li><a href="#">Sign up</a></li>
+								<li><a href=""""),_display_(Seq[Any](/*51.23*/routes/*51.29*/.Application.login())),format.raw/*51.49*/("""">Sign in</a></li>
 							</ul>
 						</a>
 					</li>
@@ -102,7 +101,7 @@ Seq[Any](format.raw/*1.32*/("""
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/assets/javascripts/bootstrap.min.js"></script>
+    <script src=""""),_display_(Seq[Any](/*76.19*/routes/*76.25*/.Assets.at("javascripts/bootstrap.min.js"))),format.raw/*76.67*/(""""></script>
   </body>
 </html>
 """))}
@@ -117,11 +116,11 @@ Seq[Any](format.raw/*1.32*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Aug 26 22:11:17 CEST 2014
+                    DATE: Tue Sep 09 14:26:31 CEST 2014
                     SOURCE: C:/play/activator-1.2.3/Malina/app/views/main.scala.html
-                    HASH: 62ad7376733f12148f29ccc0c7f9d141858d5db5
-                    MATRIX: 778->1|902->31|1151->245|1177->250
-                    LINES: 26->1|29->1|37->9|37->9
+                    HASH: 9b34caddb147a85b1661a6c848af49d70ce1f54a
+                    MATRIX: 778->1|902->31|1151->245|1177->250|1261->298|1276->304|1341->347|1411->381|1426->387|1483->422|2352->1255|2367->1261|2409->1281|2637->1473|2652->1479|2694->1499|2765->1534|2780->1540|2822->1560|3306->2008|3321->2014|3363->2034|4108->2743|4123->2749|4187->2791
+                    LINES: 26->1|29->1|37->9|37->9|40->12|40->12|40->12|41->13|41->13|41->13|60->32|60->32|60->32|66->38|66->38|66->38|67->39|67->39|67->39|79->51|79->51|79->51|104->76|104->76|104->76
                     -- GENERATED --
                 */
             

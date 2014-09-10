@@ -68,7 +68,9 @@ mark {
   background: #ff0;
 }
 small {
-  font-size: 80%;
+display: block;
+line-height: 1.428571429;
+color: #999;
 }
 sub,
 sup {
@@ -274,6 +276,8 @@ th {
   font-style: normal;
   font-weight: normal;
   line-height: 1;
+  margin-bottom: 10px;
+  margin-right: 10px;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1386,6 +1390,7 @@ pre code {
   background-color: transparent;
   border-radius: 0;
 }
+
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
@@ -2722,7 +2727,7 @@ select[multiple].input-lg {
 }
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 6px 6px;
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
@@ -2810,9 +2815,9 @@ fieldset[disabled] .btn-default.active {
   background-color: #333;
 }
 .btn-primary {
-  color: #fff;
-  background-color: #428bca;
-  border-color: #357ebd;
+  color: #FFF;
+  background-color: #3071a9;
+  border-color: #FFFFFF;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -4558,6 +4563,7 @@ a.list-group-item.active > .badge,
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
+  color:white;
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
@@ -6207,4 +6213,14 @@ left: 20px;
     display: none !important;
   }
 }
+
+.topprofil{
+	top: 30px;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+
+
+

@@ -43,7 +43,7 @@ Seq[Any](format.raw/*1.19*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Tue Aug 26 22:11:17 CEST 2014
+                    DATE: Tue Sep 02 13:51:02 CEST 2014
                     SOURCE: C:/play/activator-1.2.3/Malina/app/views/index.scala.html
                     HASH: a7f2c39e6369edc3aef8fbb0fb328ab46f65e358
                     MATRIX: 774->1|885->18|922->21|944->35|983->37|1016->40

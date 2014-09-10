@@ -6,3 +6,41 @@ exit
 run
 ~run
 exit
+~run
+play debug
+play debug run
+debug
+shell
+debug
+debug run
+~run
+exot
+exit
+~run
+exit
+clean compile
+clean
+compile
+debug run
+run debug
+debug
+run
+debug
+debug run
+play debug run
+-jvm-debug 9999
+exit
+-jvm-debug 9999
+jvm-debug 9999
+debug 9999
+debug
+9999
+-jvm-debug 9999
+debug 9999
+-jvm 9999
+exit
+~run
+run
+exit
+run
+exit
